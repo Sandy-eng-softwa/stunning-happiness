@@ -1,0 +1,4 @@
+area_str = input("Digite o valor da área: ")
+area = float(area_str)
+A = area/2 * (3.14)
+print("O tamanho da circunferência é: ",A)
